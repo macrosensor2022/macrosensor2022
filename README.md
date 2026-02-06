@@ -5,7 +5,7 @@
 # Hi there, I'm Vinay Varshigan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=MS+in+Computer+Science+%40+Northeastern+University;AI+Engineer+%40+Data+for+Social+Good+Club;Conversational+Intelligence+Analytics+Engineer+%40+Steelcase;Teaching+Assistant+for+Algorithms+(CS5800);Data+Scientist+%7C+ML+Engineer+%7C+Data+Engineer;Passionate+about+AI%2C+NLP%2C+and+Cloud+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=MS+in+Computer+Science+%40+Northeastern+University;AI+Engineer+%40+Data+for+Social+Good+Club;Conversational+AI+Analytics+Engineer+%40+Steelcase;Teaching+Assistant+for+Algorithms+(CS5800);Data+Scientist+%7C+ML+Engineer+%7C+Data+Engineer;Passionate+about+AI%2C+NLP%2C+and+Cloud+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
