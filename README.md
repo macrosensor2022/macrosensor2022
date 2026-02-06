@@ -105,9 +105,15 @@ Scalable text classification system for e-commerce product data using **Facebook
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=macrosensor2022&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=macrosensor2022&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=macrosensor2022&show_icons=true&theme=radical&hide_border=false&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=macrosensor2022&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=macrosensor2022&theme=radical&hide_border=false&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
