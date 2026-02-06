@@ -5,7 +5,7 @@
 # Hi there, I'm Vinay Varshigan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=MS+in+Computer+Science+%40+Northeastern+University;Data+Scientist+%7C+ML+Engineer+%7C+Data+Engineer;Teaching+Assistant+for+Algorithms+(CS5800);Passionate+about+AI%2C+NLP%2C+and+Cloud+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=MS+in+Computer+Science+%40+Northeastern+University;AI+Engineer+%40+Data+for+Social+Good+Club;Conversational+Intelligence+Analytics+Engineer+%40+Steelcase;Teaching+Assistant+for+Algorithms+(CS5800);Data+Scientist+%7C+ML+Engineer+%7C+Data+Engineer;Passionate+about+AI%2C+NLP%2C+and+Cloud+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -56,6 +56,8 @@ Hi! I'm Vinay Varshigan, a Master's student in Computer Science at Northeastern 
 
 ## 👨‍💼 Work Experience:
 
+* **Conversational Intelligence Analytics Engineer, Steelcase:** Building conversational AI analytics solutions to enhance workplace intelligence and user engagement.
+* **AI Engineer, Data for Social Good Club - Northeastern University:** Developing AI-driven solutions for social impact projects, applying machine learning to address real-world community challenges.
 * **Teaching Assistant (Algorithms - CS5800), Northeastern University:** Supporting graduate-level algorithms course, helping students master advanced computational problem-solving techniques.
 * **Data Scientist Intern, Besant Technologies:** Automated data validation pipelines, reducing processing time by 60%, performed EDA and SQL optimization (20% latency reduction), and built interactive Power BI dashboards.
 * **Secretary and Creative Group Head, SVCE CyberHub:** Led cross-functional teams for hackathons and technical events, driving 3x increase in social media engagement through data-driven creative strategies.
