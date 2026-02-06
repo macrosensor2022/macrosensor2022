@@ -24,6 +24,40 @@ Hi! I'm Vinay Varshigan, a Master's student in Computer Science at Northeastern 
 💬 Ask me about: Machine Learning pipelines, ETL workflows, AWS deployment, or Power BI dashboards.  
 ⚡ Fun fact: I automated data validation workflows so well that I saved 60% processing time—now I automate everything, even my coffee breaks!
 
+---
+
+## 🎯 Featured Projects
+
+### 📱 [Pocket Forecaster - AI Smartphone Recommendation System](https://github.com/macrosensor2022/pocket_forecaster)
+An intelligent smartphone recommendation engine built with **Java**, **MVC architecture**, and **hybrid sentiment analysis** (VADER + BERT). The system filters phones based on budget, usage type, and OS preference, while analyzing real customer reviews to provide confidence scores and personalized add-on recommendations.
+
+**Tech Stack:** `Java` `MVC Pattern` `Strategy Pattern` `NLP` `VADER` `BERT` `Spark Java API` `Apache Commons CSV`  
+**Key Features:** Smart filtering, sentiment analysis (89%+ accuracy), personalized add-ons, batch navigation, responsive web UI
+
+---
+
+### 📊 [Log Classification System Using NLP](https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project)
+A hybrid multi-stage log classification pipeline that combines **regex**, **BERT embeddings**, and **semantic clustering** to automatically categorize system logs from various sources. Achieved **99% accuracy** using Logistic Regression with SentenceTransformer embeddings.
+
+**Tech Stack:** `Python` `BERT` `SentenceTransformers` `Scikit-learn` `Regex` `DBSCAN` `Logistic Regression`  
+**Categories:** User Actions, HTTP Status, Security Alerts, Errors, Resource Usage, System Notifications (9 classes)
+
+---
+
+### 🐾 [Wildlife Detection & Emergency Communication System](https://github.com/macrosensor2022/wild-animal-detection-and-emergency-system)
+Real-time wildlife detection pipeline using **ResNet50** and **Transformer models** integrated with **IoT sensors** for tribal safety in remote regions. The system uses RF/mesh networks to deliver alerts even without internet connectivity, classifying animals and assigning danger levels.
+
+**Tech Stack:** `Python` `ResNet50` `Transformers` `TensorFlow` `PyTorch` `OpenCV` `ESP32-CAM` `IoT Sensors` `RF Modules`  
+**Key Features:** Carnivorous vs. non-carnivorous classification, danger level prediction, offline alerts, SOS integration
+
+---
+
+### 🛒 [E-commerce Text Classification Using FastText](https://github.com/macrosensor2022/Text-Classification-on-E-commerce-Data-using-FastText)
+Scalable text classification system for e-commerce product data using **Facebook's FastText** library. Leverages word and subword embeddings for robust handling of misspelled and out-of-vocabulary words, achieving strong performance with minimal training time.
+
+**Tech Stack:** `Python` `FastText` `NLP` `Pandas` `NumPy` `Subword Embeddings`  
+**Key Features:** Fast training, robust to typos, multi-class classification, production-ready scalability
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaysj2003) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/macrosensor2022) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjvinay357@gmail.com)
