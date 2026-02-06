@@ -24,6 +24,58 @@ Hi! I'm Vinay Varshigan, a Master's student in Computer Science at Northeastern 
 💬 Ask me about: Machine Learning pipelines, ETL workflows, AWS deployment, or Power BI dashboards.  
 ⚡ Fun fact: I automated data validation workflows so well that I saved 60% processing time—now I automate everything, even my coffee breaks!
 
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦁 Seamless Emergency Communication & Wildlife Detection
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/macrosensor2022/wild-animal-detection-and-emergency-system)
+
+Real-time wildlife detection pipeline using **ResNet50** and **Transformer models** for emergency alerts in remote regions.
+
+**Tech Stack:** `Python` `ResNet50` `Transformers` `IoT` `RF Networks`
+
+</td>
+<td width="50%">
+
+### 🍔 Smart Food Solutions: AI Food & Allergen Detection
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github)](#)
+
+Real-time food and allergen recognition using **ResNet50**, **InceptionV3**, and Nutritionix API, achieving **93% accuracy**.
+
+**Tech Stack:** `ResNet50` `InceptionV3` `APIs` `Deep Learning`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Pocket Forecaster – AI Smartphone Recommendation
+[![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/macrosensor2022/pocket_forecaster)
+
+Smartphone recommendation system using **Java OOP** and hybrid **sentiment analysis** (VADER + BERT) for analyzing customer reviews.
+
+**Tech Stack:** `Java` `NLP` `VADER` `BERT` `MVC Pattern`
+
+</td>
+<td width="50%">
+
+### 📊 Retail Sales & Operations Dashboard
+[![View Project](https://img.shields.io/badge/View-Project-yellow?style=for-the-badge&logo=powerbi)](#)
+
+Interactive **Power BI dashboards** with DAX measures tracking sales, orders, and business KPIs for data-driven decisions.
+
+**Tech Stack:** `Power BI` `DAX` `Data Visualization` `ETL`
+
+</td>
+</tr>
+</table>
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaysj2003) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/macrosensor2022) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjvinay357@gmail.com)
