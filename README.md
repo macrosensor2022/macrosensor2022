@@ -140,24 +140,13 @@ AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment automation, and ba
 
 ---
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=macrosensor2022&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000&icon_color=58A6FF&title_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=macrosensor2022&show_icons=true&count_private=true&hide_border=true&theme=default&bg_color=00000000" height="150" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&layout=compact&langs_count=6&hide_border=true&theme=default&bg_color=00000000" height="150" alt="Top languages" />
-</picture>
+<!-- GitHub stats cards removed: the public github-readme-stats instance was shut down
+     after its Vercel sponsorship ended, so the cards render as broken images.
+     To restore them, self-host a fork and swap the host in these URLs. -->
 
 <!-- SNAKE (optional) — the existing workflow already publishes these to the `output` branch. Uncomment to use:
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macrosensor2022/macrosensor2022/output/github-contribution-grid-snake-dark.svg" /><img src="https://raw.githubusercontent.com/macrosensor2022/macrosensor2022/output/github-contribution-grid-snake.svg" alt="Contribution graph" /></picture>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macrosensor2022/macrosensor2022/output/github-contribution-grid-snake-dark.svg" /><img src="https://raw.githubusercontent.com/macrosensor2022/macrosensor2022/output/github-contribution-grid-snake.svg" alt="Contribution graph" /></picture></div>
 -->
-
-</div>
-
----
 
 <div align="center">
 
