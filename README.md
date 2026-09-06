@@ -1,115 +1,176 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=180&section=header&text=Vinay%20Varshigan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Founder%20%40%20Synvix%20%7C%20AI%2C%20Data%20%26%20Cloud%20Engineer&descAlignY=55&descSize=16" alt="header" />
+</div>
 
-# Vinay Varshigan S.J.
+<div align="center">
 
 ### Founder @ [Synvix](https://synvix.in) · AI, Data & Cloud Engineer
 
-MS Computer Science @ Northeastern University (Roux Institute) · Expected May 2027
-
-**Building practical AI, data, automation, and cloud-powered systems.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+practical+AI%2C+data+%26+cloud+systems;Founder+%40+Synvix+%7C+MS+CS+%40+Northeastern;NLP+%C2%B7+Data+Engineering+%C2%B7+AWS+%C2%B7+Automation" alt="typing" />
 
 <br/>
 
-[![Synvix](https://img.shields.io/badge/Synvix-000000?style=for-the-badge&logo=safari&logoColor=white)](https://synvix.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaysj2003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://macrosensor2022.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macrosensor2022)
+[![Website](https://img.shields.io/badge/🌐_Synvix-0EA5E9?style=for-the-badge&labelColor=0F172A)](https://synvix.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://linkedin.com/in/vinaysj2003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A)](https://macrosensor2022.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/macrosensor2022)
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=macrosensor2022&label=Profile%20views&color=0ea5e9&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/macrosensor2022?label=Followers&style=flat-square&color=8b5cf6" alt="followers" />
 
 </div>
 
 ---
 
+<br/>
+
 ## 🚀 Building Synvix
 
-[**Synvix**](https://synvix.in) is my technology venture focused on modern digital products — websites, full-stack applications, and AI/data solutions for businesses that need to ship reliable systems.
+> **[Synvix](https://synvix.in)** — technology venture building modern digital products: websites, full-stack apps, and AI/data systems that businesses can actually ship.
 
-I work across discovery → design → development → launch, with emphasis on AI, data analysis, and cloud-ready architecture.
+| Discover | Design | Develop | Launch |
+|:--------:|:------:|:-------:|:------:|
+| Goals & product vision | UI/UX + system design | Scalable web & AI systems | Deploy, optimize, support |
+
+<p align="center">
+  <a href="https://synvix.in"><img src="https://img.shields.io/badge/Visit_Synvix.in-0F172A?style=for-the-badge&logo=safari&logoColor=0EA5E9" alt="Synvix" /></a>
+</p>
 
 ---
 
 ## 💼 Experience
 
 <table>
-<tr>
-<td width="38%"><b>Conversational Intelligence Analytics Engineer</b><br/><sub>Steelcase / Northeastern Working Lab</sub></td>
-<td>NLP + analytics engineering on large-scale conversational datasets for workplace intelligence products.<br/><i>High-level only · details under NDA</i></td>
-</tr>
-<tr>
-<td><b>AI Engineer</b><br/><sub>Data for Social Good Club · Northeastern</sub></td>
-<td>Applied ML to social-impact projects and community-focused data problems.</td>
-</tr>
-<tr>
-<td><b>Teaching Assistant — Algorithms (CS5800)</b><br/><sub>Northeastern University</sub></td>
-<td>Graduate algorithms support, problem solving, and technical mentoring.</td>
-</tr>
-<tr>
-<td><b>Data Scientist Intern</b><br/><sub>Besant Technologies</sub></td>
-<td>Data validation automation, SQL/EDA optimization, Power BI dashboards.</td>
-</tr>
-<tr>
-<td><b>Software Developer Intern</b><br/><sub>Bluebase Software Solutions</sub></td>
-<td>AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment, backend/API work.</td>
-</tr>
+  <tr>
+    <td width="42%">
+      <img src="https://img.shields.io/badge/Current-0EA5E9?style=flat-square" alt="current" /><br/>
+      <b>Conversational Intelligence Analytics Engineer</b><br/>
+      <sub>Steelcase / Northeastern Working Lab</sub>
+    </td>
+    <td>
+      NLP + analytics on large-scale conversational datasets for workplace intelligence products.<br/>
+      <sub><i>High-level only · details under NDA</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>AI Engineer</b><br/>
+      <sub>Data for Social Good Club · Northeastern</sub>
+    </td>
+    <td>Applied ML to social-impact projects and community data problems.</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Teaching Assistant — Algorithms (CS5800)</b><br/>
+      <sub>Northeastern University</sub>
+    </td>
+    <td>Graduate algorithms support, problem solving, and technical mentoring.</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Data Scientist Intern</b><br/>
+      <sub>Besant Technologies</sub>
+    </td>
+    <td>Data validation automation, SQL/EDA optimization, Power BI dashboards.</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Software Developer Intern</b><br/>
+      <sub>Bluebase Software Solutions</sub>
+    </td>
+    <td>AWS (VPC, EC2, Auto Scaling), Linux deployment, backend/API work.</td>
+  </tr>
 </table>
 
 ---
 
 ## 🧠 What I Build
 
-| Focus | What that means in practice |
-|:------|:----------------------------|
-| **AI & Machine Learning** | NLP pipelines, classification systems, intelligent applications |
-| **Data Engineering** | ETL, analytics tooling, data quality, job-tracking systems |
-| **Cloud & Infrastructure** | AWS, Docker, Linux deployment, APIs |
-| **Automation** | Scraping, scoring, workflow tooling that cuts manual ops work |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,aws,docker,linux,flask,fastapi,pytorch,tensorflow,sklearn,postgres,git&theme=dark" alt="skills" />
+</p>
+
+| 🤖 AI / ML | 📊 Data | ☁️ Cloud | ⚡ Automation |
+|:-----------|:--------|:---------|:--------------|
+| NLP · Transformers · classification systems | ETL · analytics · data quality | AWS · Docker · Linux · APIs | Scraping · scoring · workflow tools |
 
 ---
 
 ## 🛠 Featured Projects
 
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| [**find_jobs**](https://github.com/macrosensor2022/find_jobs) — JobTracker | Job command center with scraping, scoring, and Flask workflow for DE · Analytics · BI roles | `Python` `Flask` `SQL` |
-| [**Log Classification**](https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project) | Hybrid NLP logs: regex → embeddings → FastAPI serving | `NLP` `FastAPI` `Transformers` |
-| [**Pocket Forecaster**](https://github.com/macrosensor2022/pocket_forecaster) | AI-assisted phone recommender + hybrid review sentiment | `Java` `NLP` `MVC` |
-| [**FastText E-commerce NLP**](https://github.com/macrosensor2022/Text-Classification-on-E-commerce-Data-using-FastText) | Multi-class product text classification with subword embeddings | `Python` `FastText` |
-| [**AWS Production Lab**](https://github.com/macrosensor2022/Building-a-Robust-AWS-Production-Environment) | VPC, bastion, ALB-style production networking lab | `AWS` `Cloud` `Linux` |
-| [**Flask on EC2**](https://github.com/macrosensor2022/Deploying-a-flask-web-app-on-a-linux-machine-using-an-Amazon-EC2-instance) | Flask + nginx + Gunicorn deployment on Amazon EC2 | `Flask` `AWS` `nginx` |
+<a href="https://github.com/macrosensor2022/find_jobs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrosensor2022&repo=find_jobs&theme=tokyonight&hide_border=true" alt="find_jobs" />
+</a>
+<a href="https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrosensor2022&repo=Log_classification_system_NLP_Personal_project&theme=tokyonight&hide_border=true" alt="log classification" />
+</a>
+
+<a href="https://github.com/macrosensor2022/pocket_forecaster">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrosensor2022&repo=pocket_forecaster&theme=tokyonight&hide_border=true" alt="pocket_forecaster" />
+</a>
+<a href="https://github.com/macrosensor2022/Text-Classification-on-E-commerce-Data-using-FastText">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrosensor2022&repo=Text-Classification-on-E-commerce-Data-using-FastText&theme=tokyonight&hide_border=true" alt="fasttext" />
+</a>
+
+<a href="https://github.com/macrosensor2022/Building-a-Robust-AWS-Production-Environment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrosensor2022&repo=Building-a-Robust-AWS-Production-Environment&theme=tokyonight&hide_border=true" alt="aws lab" />
+</a>
+<a href="https://github.com/macrosensor2022/Deploying-a-flask-web-app-on-a-linux-machine-using-an-Amazon-EC2-instance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrosensor2022&repo=Deploying-a-flask-web-app-on-a-linux-machine-using-an-Amazon-EC2-instance&theme=tokyonight&hide_border=true" alt="flask ec2" />
+</a>
+
+<br/>
+
+| Project | Why it matters |
+|:--------|:---------------|
+| **[find_jobs](https://github.com/macrosensor2022/find_jobs)** | End-to-end job command center — scraping, scoring, Flask workflow |
+| **[Log Classification](https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project)** | NLP pipeline: regex → embeddings → FastAPI model serving |
+| **[Pocket Forecaster](https://github.com/macrosensor2022/pocket_forecaster)** | Java MVC recommender + hybrid review sentiment analysis |
+| **[FastText NLP](https://github.com/macrosensor2022/Text-Classification-on-E-commerce-Data-using-FastText)** | Fast e-commerce text classification with subword embeddings |
+| **[AWS Production Lab](https://github.com/macrosensor2022/Building-a-Robust-AWS-Production-Environment)** | VPC / bastion / ALB-style cloud networking |
+| **[Flask on EC2](https://github.com/macrosensor2022/Deploying-a-flask-web-app-on-a-linux-machine-using-an-Amazon-EC2-instance)** | Production-style Flask + nginx + Gunicorn deploy |
 
 ---
 
 ## 🌱 Currently Building
 
-- **[Synvix](https://synvix.in)** — technology services + AI/data product work
-- **JobTracker (`find_jobs`)** — automation for job search & analytics workflows
-- **NLP / data systems** — classification, embeddings, API-served ML pipelines
+```text
+→ Synvix          technology services + AI/data products   https://synvix.in
+→ JobTracker      automation for DE / Analytics job search
+→ NLP systems     classification · embeddings · API serving
+```
 
 ---
 
-## 📊 GitHub
+## 📈 Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=macrosensor2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=macrosensor2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macrosensor2022&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 ---
 
 <div align="center">
 
-### Connect
+### Let's build something useful
 
-[Synvix](https://synvix.in) · [LinkedIn](https://linkedin.com/in/vinaysj2003) · [Portfolio](https://macrosensor2022.github.io/Portfolio/) · [GitHub](https://github.com/macrosensor2022)
+[![Synvix](https://img.shields.io/badge/Synvix-0EA5E9?style=for-the-badge&labelColor=0F172A)](https://synvix.in)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaysj2003)
+[![Email](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge)](https://macrosensor2022.github.io/Portfolio/)
+
+<br/>
+
+<sub>MS Computer Science · Northeastern University (Roux Institute) · Expected May 2027</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=100&section=footer" alt="footer" />
 
 </div>
