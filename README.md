@@ -25,28 +25,13 @@ I build AI, data, and cloud systems — and turn them into products people actua
 
 ## What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>🤖 AI / ML</b><br/>
-<sub>NLP · Transformers · Embeddings · Classification · Machine Learning</sub>
-</td>
-<td width="50%" valign="top">
-<b>📊 Data Engineering</b><br/>
-<sub>SQL · ETL · Data Validation · Analytics Pipelines · Pandas</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b>☁️ Cloud &amp; Infrastructure</b><br/>
-<sub>AWS · Azure · EC2 · VPC · Linux · Docker · Networking</sub>
-</td>
-<td width="50%" valign="top">
-<b>🚀 Product Building</b><br/>
-<sub>AI products · Data products · Automation · Architecture · Delivery</sub>
-</td>
-</tr>
-</table>
+**🤖 AI / ML** &nbsp;— NLP · Transformers · Embeddings · Classification · Machine Learning
+
+**📊 Data Engineering** &nbsp;— SQL · ETL · Data Validation · Analytics Pipelines · Pandas
+
+**☁️ Cloud & Infrastructure** &nbsp;— AWS · Azure · EC2 · VPC · Linux · Docker · Networking
+
+**🚀 Product Building** &nbsp;— AI products · Data products · Automation · Architecture · Delivery
 
 ---
 
@@ -83,28 +68,6 @@ I build AI, data, and cloud systems — and turn them into products people actua
 
 ---
 
-## The Path So Far
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" valign="top"><b>Northeastern</b><br/><sub>MS CS<br/>TA · CS5800</sub></td>
-<td align="center" valign="middle">→</td>
-<td align="center" valign="top"><b>AI / Analytics</b><br/><sub>Data for Social Good<br/>Besant Technologies</sub></td>
-<td align="center" valign="middle">→</td>
-<td align="center" valign="top"><b>Data Engineering</b><br/><sub>Bangor Savings Bank<br/>Steelcase Lab</sub></td>
-<td align="center" valign="middle">→</td>
-<td align="center" valign="top"><b>Cloud / Software</b><br/><sub>Bluebase<br/>AWS builds</sub></td>
-<td align="center" valign="middle">→</td>
-<td align="center" valign="top"><b>Synvix</b><br/><sub>Founder</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## Building Synvix
 
 [**Synvix**](https://synvix.in) is the technology company I founded — building AI, data, and software products end to end, from problem discovery and architecture through delivery and launch.
@@ -119,9 +82,20 @@ Client work and internal tooling are private, so there is no public codebase to 
 
 ---
 
+## Experience Snapshot
+
+<sub>Areas I have worked across — a summary of domains, not a chronological progression.</sub>
+
+`AI / NLP` &nbsp;·&nbsp; Steelcase / Northeastern Working Lab, Data for Social Good Club<br/>
+`Data Engineering` &nbsp;·&nbsp; Bangor Savings Bank<br/>
+`Cloud & Infrastructure` &nbsp;·&nbsp; Bluebase Software Solutions<br/>
+`Analytics` &nbsp;·&nbsp; Besant Technologies<br/>
+`Teaching` &nbsp;·&nbsp; Northeastern University, Algorithms (CS5800)<br/>
+`Product & Founding` &nbsp;·&nbsp; Synvix
+
 ## Experience
 
-**Synvix** — *Founder* · `Current`<br/>
+**Synvix** — *Founder* · `Present`<br/>
 Building a technology company across AI, data, and software products — owning strategy, architecture, delivery, and outcomes end to end.
 
 **Bangor Savings Bank** — *Data Engineering Co-op*<br/>
@@ -148,7 +122,7 @@ AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment automation, and ba
 
 ## Skills → Proof
 
-| Area | Technologies | Applied in |
+| Area | Technologies | Applied In |
 |:--|:--|:--|
 | **AI / ML** | Python, scikit-learn, Transformers, Sentence Embeddings, FastText | Log Classification System · Steelcase |
 | **Data Engineering** | SQL Server, SSIS, ETL, Data Validation, Pandas | Bangor Savings Bank · JobTracker |
