@@ -1,106 +1,115 @@
+<div align="center">
+
 # Vinay Varshigan S.J.
 
-**Founder @ [Synvix](https://synvix.in) · AI, Data & Cloud Engineer**  
+### Founder @ [Synvix](https://synvix.in) · AI, Data & Cloud Engineer
+
 MS Computer Science @ Northeastern University (Roux Institute) · Expected May 2027
 
-Building practical AI, data, automation, and cloud-powered systems.
+**Building practical AI, data, automation, and cloud-powered systems.**
 
-[Synvix](https://synvix.in) · [LinkedIn](https://linkedin.com/in/vinaysj2003) · [Portfolio](https://macrosensor2022.github.io/Portfolio/)
+<br/>
+
+[![Synvix](https://img.shields.io/badge/Synvix-000000?style=for-the-badge&logo=safari&logoColor=white)](https://synvix.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaysj2003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://macrosensor2022.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macrosensor2022)
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
 
 ---
 
-## Building Synvix
+## 🚀 Building Synvix
 
 [**Synvix**](https://synvix.in) is my technology venture focused on modern digital products — websites, full-stack applications, and AI/data solutions for businesses that need to ship reliable systems.
 
-I work across discovery, design, development, and launch: turning product requirements into scalable software with an emphasis on AI, data analysis, and cloud-ready architecture.
+I work across discovery → design → development → launch, with emphasis on AI, data analysis, and cloud-ready architecture.
 
 ---
 
-## Experience
+## 💼 Experience
 
-**Conversational Intelligence Analytics Engineer** — Steelcase / Northeastern Working Lab  
-NLP and analytics engineering on large-scale conversational datasets to support workplace intelligence products. *(High-level description only; details under NDA.)*
-
-**AI Engineer** — Data for Social Good Club, Northeastern University  
-Applied machine learning to social-impact projects and community-focused data problems.
-
-**Teaching Assistant — Algorithms (CS5800)** — Northeastern University  
-Supporting graduate algorithms coursework, problem solving, and technical mentoring.
-
-**Data Scientist Intern** — Besant Technologies  
-Automated data validation workflows, SQL/EDA optimization, and interactive Power BI dashboards.
-
-**Software Developer Intern** — Bluebase Software Solutions  
-AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment automation, and backend/API work.
-
----
-
-## What I Build
-
-- **AI & Machine Learning** — NLP pipelines, classification systems, intelligent applications  
-- **Data Engineering** — ETL, analytics tooling, data quality and job-tracking systems  
-- **Cloud & Infrastructure** — AWS, Docker, Linux deployment, APIs  
-- **Automation** — Scraping, scoring, workflow tooling that reduces manual ops work
-
----
-
-## Featured Projects
-
-### [find_jobs](https://github.com/macrosensor2022/find_jobs) — JobTracker
-Full-time / new-grad job command center with scraping, scoring, and a Flask-backed workflow for DE · Analytics · BI roles.  
-`Python` `Flask` `SQL` `Automation`
-
-### [Log Classification System](https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project)
-Hybrid NLP log classification: regex → transformer embeddings → model serving via FastAPI.  
-`Python` `NLP` `FastAPI` `SentenceTransformers` `scikit-learn`
-
-### [Pocket Forecaster](https://github.com/macrosensor2022/pocket_forecaster)
-AI-assisted smartphone recommendation system with MVC architecture and hybrid review sentiment analysis.  
-`Java` `NLP` `MVC` `SparkJava`
-
-### [E-commerce Text Classification (FastText)](https://github.com/macrosensor2022/Text-Classification-on-E-commerce-Data-using-FastText)
-FastText-based multi-class product text classification with subword embeddings for noisy e-commerce text.  
-`Python` `FastText` `NLP`
-
-### [AWS Production Environment Lab](https://github.com/macrosensor2022/Building-a-Robust-AWS-Production-Environment)
-Hands-on AWS production networking and deployment environment (VPC, bastion, ALB patterns).  
-`AWS` `Cloud` `Linux`
-
-### [Flask on EC2](https://github.com/macrosensor2022/Deploying-a-flask-web-app-on-a-linux-machine-using-an-Amazon-EC2-instance)
-Flask app deployment on Amazon EC2 with nginx and Gunicorn.  
-`Python` `Flask` `AWS` `nginx`
+<table>
+<tr>
+<td width="38%"><b>Conversational Intelligence Analytics Engineer</b><br/><sub>Steelcase / Northeastern Working Lab</sub></td>
+<td>NLP + analytics engineering on large-scale conversational datasets for workplace intelligence products.<br/><i>High-level only · details under NDA</i></td>
+</tr>
+<tr>
+<td><b>AI Engineer</b><br/><sub>Data for Social Good Club · Northeastern</sub></td>
+<td>Applied ML to social-impact projects and community-focused data problems.</td>
+</tr>
+<tr>
+<td><b>Teaching Assistant — Algorithms (CS5800)</b><br/><sub>Northeastern University</sub></td>
+<td>Graduate algorithms support, problem solving, and technical mentoring.</td>
+</tr>
+<tr>
+<td><b>Data Scientist Intern</b><br/><sub>Besant Technologies</sub></td>
+<td>Data validation automation, SQL/EDA optimization, Power BI dashboards.</td>
+</tr>
+<tr>
+<td><b>Software Developer Intern</b><br/><sub>Bluebase Software Solutions</sub></td>
+<td>AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment, backend/API work.</td>
+</tr>
+</table>
 
 ---
 
-## Technical Focus
+## 🧠 What I Build
 
-| Area | Focus |
-|------|--------|
-| **Languages** | Python, SQL, Java |
-| **AI / ML** | NLP, Transformers, scikit-learn, FastText |
-| **Data** | Pandas, ETL patterns, analytics, data quality |
-| **Cloud / DevOps** | AWS (EC2, VPC), Docker, Linux, Git |
-| **Backend / APIs** | Flask, FastAPI, REST |
-
----
-
-## Currently Building
-
-- **Synvix** — technology services and AI/data product work ([synvix.in](https://synvix.in))
-- **JobTracker (`find_jobs`)** — practical automation for job search and analytics workflows
-- **NLP / data systems** — classification, embeddings, and API-served ML pipelines
+| Focus | What that means in practice |
+|:------|:----------------------------|
+| **AI & Machine Learning** | NLP pipelines, classification systems, intelligent applications |
+| **Data Engineering** | ETL, analytics tooling, data quality, job-tracking systems |
+| **Cloud & Infrastructure** | AWS, Docker, Linux deployment, APIs |
+| **Automation** | Scraping, scoring, workflow tooling that cuts manual ops work |
 
 ---
 
-## Connect
+## 🛠 Featured Projects
 
-- GitHub: [macrosensor2022](https://github.com/macrosensor2022)
-- LinkedIn: [vinaysj2003](https://linkedin.com/in/vinaysj2003)
-- Synvix: [synvix.in](https://synvix.in)
-- Portfolio: [macrosensor2022.github.io/Portfolio](https://macrosensor2022.github.io/Portfolio/)
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| [**find_jobs**](https://github.com/macrosensor2022/find_jobs) — JobTracker | Job command center with scraping, scoring, and Flask workflow for DE · Analytics · BI roles | `Python` `Flask` `SQL` |
+| [**Log Classification**](https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project) | Hybrid NLP logs: regex → embeddings → FastAPI serving | `NLP` `FastAPI` `Transformers` |
+| [**Pocket Forecaster**](https://github.com/macrosensor2022/pocket_forecaster) | AI-assisted phone recommender + hybrid review sentiment | `Java` `NLP` `MVC` |
+| [**FastText E-commerce NLP**](https://github.com/macrosensor2022/Text-Classification-on-E-commerce-Data-using-FastText) | Multi-class product text classification with subword embeddings | `Python` `FastText` |
+| [**AWS Production Lab**](https://github.com/macrosensor2022/Building-a-Robust-AWS-Production-Environment) | VPC, bastion, ALB-style production networking lab | `AWS` `Cloud` `Linux` |
+| [**Flask on EC2**](https://github.com/macrosensor2022/Deploying-a-flask-web-app-on-a-linux-machine-using-an-Amazon-EC2-instance) | Flask + nginx + Gunicorn deployment on Amazon EC2 | `Flask` `AWS` `nginx` |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macrosensor2022&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
-</p>
+---
+
+## 🌱 Currently Building
+
+- **[Synvix](https://synvix.in)** — technology services + AI/data product work
+- **JobTracker (`find_jobs`)** — automation for job search & analytics workflows
+- **NLP / data systems** — classification, embeddings, API-served ML pipelines
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=macrosensor2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrosensor2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
+
+### Connect
+
+[Synvix](https://synvix.in) · [LinkedIn](https://linkedin.com/in/vinaysj2003) · [Portfolio](https://macrosensor2022.github.io/Portfolio/) · [GitHub](https://github.com/macrosensor2022)
+
+</div>
