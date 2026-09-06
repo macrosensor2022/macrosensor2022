@@ -4,47 +4,78 @@
 
 **AI / Machine Learning · Data Engineering · Cloud · Analytics · Software Engineering**
 
-MS Computer Science @ Northeastern University · Expected May 2027<br/>
-Founder — <a href="https://synvix.in">Synvix</a>
+I build AI, data, and cloud systems — and turn them into products people actually use.
 
-[Portfolio](https://macrosensor2022.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/vinaysj2003) · [Synvix](https://synvix.in)
+<sub>MS Computer Science · Northeastern University · Expected May 2027 &nbsp;|&nbsp; Founder · <a href="https://synvix.in">Synvix</a></sub>
 
-<sub>Résumé — `[RESUME LINK NEEDED]` · not yet linked</sub>
+<a href="https://macrosensor2022.github.io/Portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/vinaysj2003"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+<a href="https://synvix.in"><b>Synvix</b></a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
-I build data-driven systems, AI/ML applications, and cloud infrastructure — and turn them into products people actually use. Currently building **[Synvix](https://synvix.in)** while completing my MS at Northeastern.
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🤖 AI / ML</b><br/>
+<sub>NLP · Transformers · Embeddings · Classification · Machine Learning</sub>
+</td>
+<td width="50%" valign="top">
+<b>📊 Data Engineering</b><br/>
+<sub>SQL · ETL · Data Validation · Analytics Pipelines · Pandas</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>☁️ Cloud &amp; Infrastructure</b><br/>
+<sub>AWS · Azure · EC2 · VPC · Linux · Docker · Networking</sub>
+</td>
+<td width="50%" valign="top">
+<b>🚀 Product Building</b><br/>
+<sub>AI products · Data products · Automation · Architecture · Delivery</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Work
+## Featured Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/macrosensor2022/find_jobs">JobTracker</a></h3>
-<p>End-to-end job command center — multi-source scraping, explainable scoring, and a Flask workflow for DE / Analytics / BI roles.</p>
+<p>End-to-end job command center — multi-source scraping, explainable scoring, and a Flask workflow for Data Engineering / Analytics / BI roles.</p>
 <p><code>Python</code> <code>Flask</code> <code>SQL</code> <code>Automation</code></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/macrosensor2022/Log_classification_system_NLP_Personal_project">Log Classification System</a></h3>
-<p>Hybrid NLP pipeline: regex rules to DBSCAN semantic clustering to transformer embeddings, served through FastAPI.</p>
+<p>Hybrid NLP pipeline — regex rules, DBSCAN semantic clustering, and transformer embeddings, served through FastAPI.</p>
 <p><code>Python</code> <code>NLP</code> <code>FastAPI</code> <code>Transformers</code> <code>scikit-learn</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/macrosensor2022/Building-a-Robust-AWS-Production-Environment">AWS Production Environment</a></h3>
-<p>Production-style AWS network build — VPC segmentation, bastion access, and a load-balanced web tier with deployment notes.</p>
+<p>Production-style AWS network environment — VPC segmentation, bastion access, EC2 infrastructure, and a load-balanced application tier.</p>
 <p><sub><b>Stack:</b> VPC · Subnets · Bastion · EC2 · ALB</sub></p>
 <p><code>AWS</code> <code>VPC</code> <code>EC2</code> <code>Linux</code> <code>Networking</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/macrosensor2022/Portfolio">Portfolio Site</a></h3>
+<h3><a href="https://github.com/macrosensor2022/Portfolio">Portfolio</a></h3>
 <p>Personal engineering portfolio — designed, built, and deployed on GitHub Pages. Live at <a href="https://macrosensor2022.github.io/Portfolio/">macrosensor2022.github.io/Portfolio</a>.</p>
-<p><sub><b>Status:</b> Live in production</sub></p>
+<p><sub><b>Status:</b> Live</sub></p>
 <p><code>JavaScript</code> <code>HTML/CSS</code> <code>GitHub Pages</code></p>
 </td>
 </tr>
@@ -52,9 +83,45 @@ I build data-driven systems, AI/ML applications, and cloud infrastructure — an
 
 ---
 
+## The Path So Far
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top"><b>Northeastern</b><br/><sub>MS CS<br/>TA · CS5800</sub></td>
+<td align="center" valign="middle">→</td>
+<td align="center" valign="top"><b>AI / Analytics</b><br/><sub>Data for Social Good<br/>Besant Technologies</sub></td>
+<td align="center" valign="middle">→</td>
+<td align="center" valign="top"><b>Data Engineering</b><br/><sub>Bangor Savings Bank<br/>Steelcase Lab</sub></td>
+<td align="center" valign="middle">→</td>
+<td align="center" valign="top"><b>Cloud / Software</b><br/><sub>Bluebase<br/>AWS builds</sub></td>
+<td align="center" valign="middle">→</td>
+<td align="center" valign="top"><b>Synvix</b><br/><sub>Founder</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Building Synvix
+
+[**Synvix**](https://synvix.in) is the technology company I founded — building AI, data, and software products end to end, from problem discovery and architecture through delivery and launch.
+
+<div align="center">
+
+`DISCOVER` &nbsp;→&nbsp; `DESIGN` &nbsp;→&nbsp; `DEVELOP` &nbsp;→&nbsp; `LAUNCH`
+
+</div>
+
+Client work and internal tooling are private, so there is no public codebase to browse. What it represents: owning product direction, technical architecture, and delivery outcomes — not writing code to spec.
+
+---
+
 ## Experience
 
-**Synvix** — *Founder* · `Present`<br/>
+**Synvix** — *Founder* · `Current`<br/>
 Building a technology company across AI, data, and software products — owning strategy, architecture, delivery, and outcomes end to end.
 
 **Bangor Savings Bank** — *Data Engineering Co-op*<br/>
@@ -79,25 +146,15 @@ AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment automation, and ba
 
 ---
 
-## Building Synvix
-
-[**Synvix**](https://synvix.in) is the technology company I founded — building AI, data, and software products end to end, from problem discovery and architecture through delivery and launch.
-
-`Discover` → `Design` → `Develop` → `Launch`
-
-Client work and internal tooling are private, so there is no public codebase to browse. What it represents: owning product direction, technical architecture, and delivery outcomes — not writing code to spec.
-
----
-
 ## Skills → Proof
 
-| Area | Tools | Where I have applied it |
+| Area | Technologies | Applied in |
 |:--|:--|:--|
-| **AI / ML** | Python, scikit-learn, Transformers, Sentence Embeddings, FastText | Log Classification System · Steelcase NLP analytics |
-| **Data Engineering** | SQL Server, SSIS, ETL, Data Validation, Pandas | Bangor Savings Bank co-op · JobTracker pipeline |
-| **Cloud** | AWS (EC2, VPC, ALB, Bastion), Azure, Linux, Docker | AWS Production Environment · Bluebase internship |
+| **AI / ML** | Python, scikit-learn, Transformers, Sentence Embeddings, FastText | Log Classification System · Steelcase |
+| **Data Engineering** | SQL Server, SSIS, ETL, Data Validation, Pandas | Bangor Savings Bank · JobTracker |
+| **Cloud** | AWS (EC2, VPC, ALB, Bastion), Azure, Linux, Docker | AWS Production Environment · Bluebase |
 | **Analytics** | Power BI, SQL Reporting, EDA | Besant Technologies · Steelcase |
-| **Software Engineering** | Java, Flask, FastAPI, REST, MVC | Pocket Forecaster · Portfolio site |
+| **Software Engineering** | Java, Flask, FastAPI, REST, MVC | Pocket Forecaster · Portfolio |
 | **Product / Startup** | Discovery, architecture, delivery | Synvix |
 
 ---
@@ -128,8 +185,12 @@ Client work and internal tooling are private, so there is no public codebase to 
 
 ---
 
-## Contact
+<div align="center">
 
 Open to conversations about AI/ML, data engineering, cloud systems, and product building.
 
-[Portfolio](https://macrosensor2022.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/vinaysj2003) · [Synvix](https://synvix.in)
+<a href="https://macrosensor2022.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/vinaysj2003">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://synvix.in">Synvix</a>
+
+</div>
