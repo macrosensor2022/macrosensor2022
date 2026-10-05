@@ -6,11 +6,10 @@
 
 I build AI, data, and cloud systems — and turn them into products people actually use.
 
-<sub>MS Computer Science · Northeastern University · Expected May 2027 &nbsp;|&nbsp; Founder · <a href="https://synvix.in">Synvix</a></sub>
+<sub>MS Computer Science · Northeastern University · Expected May 2027</sub>
 
 <a href="https://macrosensor2022.github.io/Portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/vinaysj2003"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="https://synvix.in"><b>Synvix</b></a>
+<a href="https://linkedin.com/in/vinaysj2003"><b>LinkedIn</b></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -68,20 +67,6 @@ I build AI, data, and cloud systems — and turn them into products people actua
 
 ---
 
-## Building Synvix
-
-[**Synvix**](https://synvix.in) is the technology company I founded — building AI, data, and software products end to end, from problem discovery and architecture through delivery and launch.
-
-<div align="center">
-
-`DISCOVER` &nbsp;→&nbsp; `DESIGN` &nbsp;→&nbsp; `DEVELOP` &nbsp;→&nbsp; `LAUNCH`
-
-</div>
-
-Client work and internal tooling are private, so there is no public codebase to browse. What it represents: owning product direction, technical architecture, and delivery outcomes — not writing code to spec.
-
----
-
 ## Experience Snapshot
 
 <sub>Areas I have worked across — a summary of domains, not a chronological progression.</sub>
@@ -90,13 +75,9 @@ Client work and internal tooling are private, so there is no public codebase to 
 `Data Engineering` &nbsp;·&nbsp; Bangor Savings Bank<br/>
 `Cloud & Infrastructure` &nbsp;·&nbsp; Bluebase Software Solutions<br/>
 `Analytics` &nbsp;·&nbsp; Besant Technologies<br/>
-`Teaching` &nbsp;·&nbsp; Northeastern University, Algorithms (CS5800)<br/>
-`Product & Founding` &nbsp;·&nbsp; Synvix
+`Teaching` &nbsp;·&nbsp; Northeastern University, Algorithms (CS5800)
 
 ## Experience
-
-**Synvix** — *Founder* · `Present`<br/>
-Building a technology company across AI, data, and software products — owning strategy, architecture, delivery, and outcomes end to end.
 
 **Bangor Savings Bank** — *Data Engineering Co-op*<br/>
 Built and validated SQL/ETL data workflows in a production banking data environment using SQL Server, SSMS, SSIS, and Azure cloud services.<br/>
@@ -129,7 +110,6 @@ AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment automation, and ba
 | **Cloud** | AWS (EC2, VPC, ALB, Bastion), Azure, Linux, Docker | AWS Production Environment · Bluebase |
 | **Analytics** | Power BI, SQL Reporting, EDA | Besant Technologies · Steelcase |
 | **Software Engineering** | Java, Flask, FastAPI, REST, MVC | Pocket Forecaster · Portfolio |
-| **Product / Startup** | Discovery, architecture, delivery | Synvix |
 
 ---
 
@@ -153,7 +133,6 @@ AWS infrastructure (VPC, EC2, Auto Scaling), Linux deployment automation, and ba
 Open to conversations about AI/ML, data engineering, cloud systems, and product building.
 
 <a href="https://macrosensor2022.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/vinaysj2003">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://synvix.in">Synvix</a>
+<a href="https://linkedin.com/in/vinaysj2003">LinkedIn</a>
 
 </div>
